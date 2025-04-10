@@ -1,10 +1,10 @@
-__*#Projeto desenvolve*__
+#__*Projeto desenvolve*__
 
-__##Cidade__
+##__Cidade__
 Itabira
 
-__##Diciplina__
+##__Diciplina__
 Introdução à Programação Web
 
-__##Número da matrícula__
+##__Número da matrícula__
 PDITA754
