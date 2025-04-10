@@ -1,4 +1,4 @@
-#__*Projeto desenvolve*__
+#Projeto desenvolve*__
 
 ##__Cidade__
 Itabira
