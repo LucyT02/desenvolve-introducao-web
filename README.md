@@ -1,6 +1,6 @@
-#Projeto desenvolve*__
+#Projeto desenvolve
 
-##__Cidade__
+##Cidade__
 Itabira
 
 ##__Diciplina__
